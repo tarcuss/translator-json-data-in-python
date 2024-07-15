@@ -1,0 +1,1540 @@
+[
+    {
+        "description": "denizkulağı",
+        "foodNutrients": [
+            {
+                "nutrient": {
+                    "id": 1003,
+                    "name": "Protein",
+                    "unitName": "g"
+                },
+                "amount": 21.2
+            },
+            {
+                "nutrient": {
+                    "id": 1004,
+                    "name": "Yağ",
+                    "unitName": "g"
+                },
+                "amount": 6.12
+            },
+            {
+                "nutrient": {
+                    "id": 1005,
+                    "name": "Karbonhidrat",
+                    "unitName": "g"
+                },
+                "amount": 7.46
+            },
+            {
+                "nutrient": {
+                    "id": 1008,
+                    "name": "Enerji",
+                    "unitName": "kcal"
+                },
+                "amount": 177.0
+            },
+            {
+                "nutrient": {
+                    "id": 1051,
+                    "name": "su",
+                    "unitName": "g"
+                },
+                "amount": 62.7
+            },
+            {
+                "nutrient": {
+                    "id": 1087,
+                    "name": "Kalsiyum, Ca",
+                    "unitName": "mg"
+                },
+                "amount": 39.0
+            },
+            {
+                "nutrient": {
+                    "id": 1089,
+                    "name": "Demir, Fe",
+                    "unitName": "mg"
+                },
+                "amount": 3.97
+            },
+            {
+                "nutrient": {
+                    "id": 1091,
+                    "name": "Fosfor, P",
+                    "unitName": "mg"
+                },
+                "amount": 236.0
+            },
+            {
+                "nutrient": {
+                    "id": 1092,
+                    "name": "Potasyum, K",
+                    "unitName": "mg"
+                },
+                "amount": 310.0
+            },
+            {
+                "nutrient": {
+                    "id": 1093,
+                    "name": "Sodyum, Na",
+                    "unitName": "mg"
+                },
+                "amount": 574.0
+            },
+            {
+                "nutrient": {
+                    "id": 1095,
+                    "name": "Çinko, Zn",
+                    "unitName": "mg"
+                },
+                "amount": 1.02
+            },
+            {
+                "nutrient": {
+                    "id": 1098,
+                    "name": "Bakır, Cu",
+                    "unitName": "mg"
+                },
+                "amount": 0.243
+            },
+            {
+                "nutrient": {
+                    "id": 1103,
+                    "name": "Selenyum, Se",
+                    "unitName": "µg"
+                },
+                "amount": 55.6
+            },
+            {
+                "nutrient": {
+                    "id": 1105,
+                    "name": "Retinol",
+                    "unitName": "µg"
+                },
+                "amount": 2.0
+            },
+            {
+                "nutrient": {
+                    "id": 1106,
+                    "name": "A Vitamini, RAE",
+                    "unitName": "µg"
+                },
+                "amount": 2.0
+            },
+            {
+                "nutrient": {
+                    "id": 1109,
+                    "name": "E vitamini",
+                    "unitName": "mg"
+                },
+                "amount": 5.8
+            },
+            {
+                "nutrient": {
+                    "id": 1162,
+                    "name": "C vitamini",
+                    "unitName": "mg"
+                },
+                "amount": 2.0
+            },
+            {
+                "nutrient": {
+                    "id": 1165,
+                    "name": "B1 Vitamini (Tiamin)",
+                    "unitName": "mg"
+                },
+                "amount": 0.201
+            },
+            {
+                "nutrient": {
+                    "id": 1166,
+                    "name": "B2 Vitamini (Riboflavin)",
+                    "unitName": "mg"
+                },
+                "amount": 0.118
+            },
+            {
+                "nutrient": {
+                    "id": 1167,
+                    "name": "B3 Vitamini (Niasin)",
+                    "unitName": "mg"
+                },
+                "amount": 1.77
+            },
+            {
+                "nutrient": {
+                    "id": 1175,
+                    "name": "B6 Vitamini",
+                    "unitName": "mg"
+                },
+                "amount": 0.168
+            },
+            {
+                "nutrient": {
+                    "id": 1177,
+                    "name": "B9 Vitamini (Folat)",
+                    "unitName": "µg"
+                },
+                "amount": 5.0
+            },
+            {
+                "nutrient": {
+                    "id": 1178,
+                    "name": "B12 vitamini",
+                    "unitName": "µg"
+                },
+                "amount": 0.77
+            },
+            {
+                "nutrient": {
+                    "id": 1185,
+                    "name": "K vitamini",
+                    "unitName": "µg"
+                },
+                "amount": 34.2
+            },
+            {
+                "nutrient": {
+                    "id": 1190,
+                    "name": "Folat, DFE",
+                    "unitName": "µg"
+                },
+                "amount": 5.0
+            },
+            {
+                "nutrient": {
+                    "id": 1253,
+                    "name": "Kolesterol",
+                    "unitName": "mg"
+                },
+                "amount": 106.0
+            },
+            {
+                "nutrient": {
+                    "id": 1258,
+                    "name": "Doymuş Yağ Asitleri",
+                    "unitName": "g"
+                },
+                "amount": 0.892
+            },
+            {
+                "nutrient": {
+                    "id": 1292,
+                    "name": "Tekli doymamış yağ asitleri",
+                    "unitName": "g"
+                },
+                "amount": 2.22
+            },
+            {
+                "nutrient": {
+                    "id": 1293,
+                    "name": "Çoklu doymamış yağ asitleri",
+                    "unitName": "g"
+                },
+                "amount": 2.21
+            }
+        ],
+        "id": 1
+    },
+    {
+        "description": "Adobo, erişteli",
+        "foodNutrients": [
+            {
+                "nutrient": {
+                    "id": 1003,
+                    "name": "Protein",
+                    "unitName": "g"
+                },
+                "amount": 16.9
+            },
+            {
+                "nutrient": {
+                    "id": 1004,
+                    "name": "Yağ",
+                    "unitName": "g"
+                },
+                "amount": 7.66
+            },
+            {
+                "nutrient": {
+                    "id": 1005,
+                    "name": "Karbonhidrat",
+                    "unitName": "g"
+                },
+                "amount": 8.14
+            },
+            {
+                "nutrient": {
+                    "id": 1008,
+                    "name": "Enerji",
+                    "unitName": "kcal"
+                },
+                "amount": 172.0
+            },
+            {
+                "nutrient": {
+                    "id": 1051,
+                    "name": "su",
+                    "unitName": "g"
+                },
+                "amount": 65.3
+            },
+            {
+                "nutrient": {
+                    "id": 2000,
+                    "name": "Şekerler",
+                    "unitName": "g"
+                },
+                "amount": 0.03
+            },
+            {
+                "nutrient": {
+                    "id": 1079,
+                    "name": "Lif",
+                    "unitName": "g"
+                },
+                "amount": 0.4
+            },
+            {
+                "nutrient": {
+                    "id": 1087,
+                    "name": "Kalsiyum, Ca",
+                    "unitName": "mg"
+                },
+                "amount": 15.0
+            },
+            {
+                "nutrient": {
+                    "id": 1089,
+                    "name": "Demir, Fe",
+                    "unitName": "mg"
+                },
+                "amount": 0.99
+            },
+            {
+                "nutrient": {
+                    "id": 1091,
+                    "name": "Fosfor, P",
+                    "unitName": "mg"
+                },
+                "amount": 149.0
+            },
+            {
+                "nutrient": {
+                    "id": 1092,
+                    "name": "Potasyum, K",
+                    "unitName": "mg"
+                },
+                "amount": 200.0
+            },
+            {
+                "nutrient": {
+                    "id": 1093,
+                    "name": "Sodyum, Na",
+                    "unitName": "mg"
+                },
+                "amount": 510.0
+            },
+            {
+                "nutrient": {
+                    "id": 1095,
+                    "name": "Çinko, Zn",
+                    "unitName": "mg"
+                },
+                "amount": 2.39
+            },
+            {
+                "nutrient": {
+                    "id": 1098,
+                    "name": "Bakır, Cu",
+                    "unitName": "mg"
+                },
+                "amount": 0.085
+            },
+            {
+                "nutrient": {
+                    "id": 1103,
+                    "name": "Selenyum, Se",
+                    "unitName": "µg"
+                },
+                "amount": 23.1
+            },
+            {
+                "nutrient": {
+                    "id": 1105,
+                    "name": "Retinol",
+                    "unitName": "µg"
+                },
+                "amount": 4.0
+            },
+            {
+                "nutrient": {
+                    "id": 1106,
+                    "name": "A Vitamini, RAE",
+                    "unitName": "µg"
+                },
+                "amount": 4.0
+            },
+            {
+                "nutrient": {
+                    "id": 1109,
+                    "name": "E vitamini",
+                    "unitName": "mg"
+                },
+                "amount": 0.2
+            },
+            {
+                "nutrient": {
+                    "id": 1114,
+                    "name": "D Vitamini (D2 + D3)",
+                    "unitName": "µg"
+                },
+                "amount": 0.3
+            },
+            {
+                "nutrient": {
+                    "id": 1165,
+                    "name": "B1 Vitamini (Tiamin)",
+                    "unitName": "mg"
+                },
+                "amount": 0.192
+            },
+            {
+                "nutrient": {
+                    "id": 1166,
+                    "name": "B2 Vitamini (Riboflavin)",
+                    "unitName": "mg"
+                },
+                "amount": 0.204
+            },
+            {
+                "nutrient": {
+                    "id": 1167,
+                    "name": "B3 Vitamini (Niasin)",
+                    "unitName": "mg"
+                },
+                "amount": 3.06
+            },
+            {
+                "nutrient": {
+                    "id": 1175,
+                    "name": "B6 Vitamini",
+                    "unitName": "mg"
+                },
+                "amount": 0.216
+            },
+            {
+                "nutrient": {
+                    "id": 1177,
+                    "name": "B9 Vitamini (Folat)",
+                    "unitName": "µg"
+                },
+                "amount": 3.0
+            },
+            {
+                "nutrient": {
+                    "id": 1178,
+                    "name": "B12 vitamini",
+                    "unitName": "µg"
+                },
+                "amount": 0.43
+            },
+            {
+                "nutrient": {
+                    "id": 1190,
+                    "name": "Folat, DFE",
+                    "unitName": "µg"
+                },
+                "amount": 3.0
+            },
+            {
+                "nutrient": {
+                    "id": 1253,
+                    "name": "Kolesterol",
+                    "unitName": "mg"
+                },
+                "amount": 72.0
+            },
+            {
+                "nutrient": {
+                    "id": 1258,
+                    "name": "Doymuş Yağ Asitleri",
+                    "unitName": "g"
+                },
+                "amount": 2.48
+            },
+            {
+                "nutrient": {
+                    "id": 1292,
+                    "name": "Tekli doymamış yağ asitleri",
+                    "unitName": "g"
+                },
+                "amount": 3.47
+            },
+            {
+                "nutrient": {
+                    "id": 1293,
+                    "name": "Çoklu doymamış yağ asitleri",
+                    "unitName": "g"
+                },
+                "amount": 0.973
+            }
+        ],
+        "id": 2
+    },
+    {
+        "description": "Adobo, pirinçli",
+        "foodNutrients": [
+            {
+                "nutrient": {
+                    "id": 1003,
+                    "name": "Protein",
+                    "unitName": "g"
+                },
+                "amount": 17.7
+            },
+            {
+                "nutrient": {
+                    "id": 1004,
+                    "name": "Yağ",
+                    "unitName": "g"
+                },
+                "amount": 7.94
+            },
+            {
+                "nutrient": {
+                    "id": 1005,
+                    "name": "Karbonhidrat",
+                    "unitName": "g"
+                },
+                "amount": 8.86
+            },
+            {
+                "nutrient": {
+                    "id": 1008,
+                    "name": "Enerji",
+                    "unitName": "kcal"
+                },
+                "amount": 181.0
+            },
+            {
+                "nutrient": {
+                    "id": 1051,
+                    "name": "su",
+                    "unitName": "g"
+                },
+                "amount": 63.3
+            },
+            {
+                "nutrient": {
+                    "id": 2000,
+                    "name": "Şekerler",
+                    "unitName": "g"
+                },
+                "amount": 0.03
+            },
+            {
+                "nutrient": {
+                    "id": 1079,
+                    "name": "Lif",
+                    "unitName": "g"
+                },
+                "amount": 0.2
+            },
+            {
+                "nutrient": {
+                    "id": 1087,
+                    "name": "Kalsiyum, Ca",
+                    "unitName": "mg"
+                },
+                "amount": 18.0
+            },
+            {
+                "nutrient": {
+                    "id": 1089,
+                    "name": "Demir, Fe",
+                    "unitName": "mg"
+                },
+                "amount": 1.34
+            },
+            {
+                "nutrient": {
+                    "id": 1091,
+                    "name": "Fosfor, P",
+                    "unitName": "mg"
+                },
+                "amount": 161.0
+            },
+            {
+                "nutrient": {
+                    "id": 1092,
+                    "name": "Potasyum, K",
+                    "unitName": "mg"
+                },
+                "amount": 216.0
+            },
+            {
+                "nutrient": {
+                    "id": 1093,
+                    "name": "Sodyum, Na",
+                    "unitName": "mg"
+                },
+                "amount": 522.0
+            },
+            {
+                "nutrient": {
+                    "id": 1095,
+                    "name": "Çinko, Zn",
+                    "unitName": "mg"
+                },
+                "amount": 2.54
+            },
+            {
+                "nutrient": {
+                    "id": 1098,
+                    "name": "Bakır, Cu",
+                    "unitName": "mg"
+                },
+                "amount": 0.096
+            },
+            {
+                "nutrient": {
+                    "id": 1103,
+                    "name": "Selenyum, Se",
+                    "unitName": "µg"
+                },
+                "amount": 24.6
+            },
+            {
+                "nutrient": {
+                    "id": 1105,
+                    "name": "Retinol",
+                    "unitName": "µg"
+                },
+                "amount": 4.0
+            },
+            {
+                "nutrient": {
+                    "id": 1106,
+                    "name": "A Vitamini, RAE",
+                    "unitName": "µg"
+                },
+                "amount": 4.0
+            },
+            {
+                "nutrient": {
+                    "id": 1109,
+                    "name": "E vitamini",
+                    "unitName": "mg"
+                },
+                "amount": 0.21
+            },
+            {
+                "nutrient": {
+                    "id": 1114,
+                    "name": "D Vitamini (D2 + D3)",
+                    "unitName": "µg"
+                },
+                "amount": 0.4
+            },
+            {
+                "nutrient": {
+                    "id": 1165,
+                    "name": "B1 Vitamini (Tiamin)",
+                    "unitName": "mg"
+                },
+                "amount": 0.242
+            },
+            {
+                "nutrient": {
+                    "id": 1166,
+                    "name": "B2 Vitamini (Riboflavin)",
+                    "unitName": "mg"
+                },
+                "amount": 0.213
+            },
+            {
+                "nutrient": {
+                    "id": 1167,
+                    "name": "B3 Vitamini (Niasin)",
+                    "unitName": "mg"
+                },
+                "amount": 3.59
+            },
+            {
+                "nutrient": {
+                    "id": 1175,
+                    "name": "B6 Vitamini",
+                    "unitName": "mg"
+                },
+                "amount": 0.25
+            },
+            {
+                "nutrient": {
+                    "id": 1177,
+                    "name": "B9 Vitamini (Folat)",
+                    "unitName": "µg"
+                },
+                "amount": 21.0
+            },
+            {
+                "nutrient": {
+                    "id": 1178,
+                    "name": "B12 vitamini",
+                    "unitName": "µg"
+                },
+                "amount": 0.44
+            },
+            {
+                "nutrient": {
+                    "id": 1186,
+                    "name": "Folik asit",
+                    "unitName": "µg"
+                },
+                "amount": 17.0
+            },
+            {
+                "nutrient": {
+                    "id": 1190,
+                    "name": "Folat, DFE",
+                    "unitName": "µg"
+                },
+                "amount": 33.0
+            },
+            {
+                "nutrient": {
+                    "id": 1253,
+                    "name": "Kolesterol",
+                    "unitName": "mg"
+                },
+                "amount": 75.0
+            },
+            {
+                "nutrient": {
+                    "id": 1258,
+                    "name": "Doymuş Yağ Asitleri",
+                    "unitName": "g"
+                },
+                "amount": 2.58
+            },
+            {
+                "nutrient": {
+                    "id": 1292,
+                    "name": "Tekli doymamış yağ asitleri",
+                    "unitName": "g"
+                },
+                "amount": 3.61
+            },
+            {
+                "nutrient": {
+                    "id": 1293,
+                    "name": "Çoklu doymamış yağ asitleri",
+                    "unitName": "g"
+                },
+                "amount": 1.02
+            }
+        ],
+        "id": 3
+    },
+    {
+        "description": "Agav sıvı tatlandırıcı",
+        "foodNutrients": [
+            {
+                "nutrient": {
+                    "id": 1003,
+                    "name": "Protein",
+                    "unitName": "g"
+                },
+                "amount": 0.09
+            },
+            {
+                "nutrient": {
+                    "id": 1004,
+                    "name": "Yağ",
+                    "unitName": "g"
+                },
+                "amount": 0.45
+            },
+            {
+                "nutrient": {
+                    "id": 1005,
+                    "name": "Karbonhidrat",
+                    "unitName": "g"
+                },
+                "amount": 76.4
+            },
+            {
+                "nutrient": {
+                    "id": 1008,
+                    "name": "Enerji",
+                    "unitName": "kcal"
+                },
+                "amount": 310.0
+            },
+            {
+                "nutrient": {
+                    "id": 1051,
+                    "name": "su",
+                    "unitName": "g"
+                },
+                "amount": 22.9
+            },
+            {
+                "nutrient": {
+                    "id": 2000,
+                    "name": "Şekerler",
+                    "unitName": "g"
+                },
+                "amount": 68.0
+            },
+            {
+                "nutrient": {
+                    "id": 1079,
+                    "name": "Lif",
+                    "unitName": "g"
+                },
+                "amount": 0.2
+            },
+            {
+                "nutrient": {
+                    "id": 1087,
+                    "name": "Kalsiyum, Ca",
+                    "unitName": "mg"
+                },
+                "amount": 1.0
+            },
+            {
+                "nutrient": {
+                    "id": 1089,
+                    "name": "Demir, Fe",
+                    "unitName": "mg"
+                },
+                "amount": 0.09
+            },
+            {
+                "nutrient": {
+                    "id": 1091,
+                    "name": "Fosfor, P",
+                    "unitName": "mg"
+                },
+                "amount": 1.0
+            },
+            {
+                "nutrient": {
+                    "id": 1092,
+                    "name": "Potasyum, K",
+                    "unitName": "mg"
+                },
+                "amount": 4.0
+            },
+            {
+                "nutrient": {
+                    "id": 1093,
+                    "name": "Sodyum, Na",
+                    "unitName": "mg"
+                },
+                "amount": 4.0
+            },
+            {
+                "nutrient": {
+                    "id": 1095,
+                    "name": "Çinko, Zn",
+                    "unitName": "mg"
+                },
+                "amount": 0.01
+            },
+            {
+                "nutrient": {
+                    "id": 1103,
+                    "name": "Selenyum, Se",
+                    "unitName": "µg"
+                },
+                "amount": 1.7
+            },
+            {
+                "nutrient": {
+                    "id": 1106,
+                    "name": "A Vitamini, RAE",
+                    "unitName": "µg"
+                },
+                "amount": 8.0
+            },
+            {
+                "nutrient": {
+                    "id": 1107,
+                    "name": "Karoten, beta",
+                    "unitName": "µg"
+                },
+                "amount": 94.0
+            },
+            {
+                "nutrient": {
+                    "id": 1109,
+                    "name": "E vitamini",
+                    "unitName": "mg"
+                },
+                "amount": 0.98
+            },
+            {
+                "nutrient": {
+                    "id": 1162,
+                    "name": "C vitamini",
+                    "unitName": "mg"
+                },
+                "amount": 17.0
+            },
+            {
+                "nutrient": {
+                    "id": 1165,
+                    "name": "B1 Vitamini (Tiamin)",
+                    "unitName": "mg"
+                },
+                "amount": 0.122
+            },
+            {
+                "nutrient": {
+                    "id": 1166,
+                    "name": "B2 Vitamini (Riboflavin)",
+                    "unitName": "mg"
+                },
+                "amount": 0.165
+            },
+            {
+                "nutrient": {
+                    "id": 1167,
+                    "name": "B3 Vitamini (Niasin)",
+                    "unitName": "mg"
+                },
+                "amount": 0.689
+            },
+            {
+                "nutrient": {
+                    "id": 1175,
+                    "name": "B6 Vitamini",
+                    "unitName": "mg"
+                },
+                "amount": 0.234
+            },
+            {
+                "nutrient": {
+                    "id": 1177,
+                    "name": "B9 Vitamini (Folat)",
+                    "unitName": "µg"
+                },
+                "amount": 30.0
+            },
+            {
+                "nutrient": {
+                    "id": 1185,
+                    "name": "K vitamini",
+                    "unitName": "µg"
+                },
+                "amount": 22.5
+            },
+            {
+                "nutrient": {
+                    "id": 1190,
+                    "name": "Folat, DFE",
+                    "unitName": "µg"
+                },
+                "amount": 30.0
+            }
+        ],
+        "id": 4
+    },
+    {
+        "description": "Alkollü malt içeceği",
+        "foodNutrients": [
+            {
+                "nutrient": {
+                    "id": 1003,
+                    "name": "Protein",
+                    "unitName": "g"
+                },
+                "amount": 0.9
+            },
+            {
+                "nutrient": {
+                    "id": 1005,
+                    "name": "Karbonhidrat",
+                    "unitName": "g"
+                },
+                "amount": 0.27
+            },
+            {
+                "nutrient": {
+                    "id": 1008,
+                    "name": "Enerji",
+                    "unitName": "kcal"
+                },
+                "amount": 58.0
+            },
+            {
+                "nutrient": {
+                    "id": 1018,
+                    "name": "Alkol, etil",
+                    "unitName": "g"
+                },
+                "amount": 7.7
+            },
+            {
+                "nutrient": {
+                    "id": 1051,
+                    "name": "su",
+                    "unitName": "g"
+                },
+                "amount": 91.0
+            },
+            {
+                "nutrient": {
+                    "id": 1087,
+                    "name": "Kalsiyum, Ca",
+                    "unitName": "mg"
+                },
+                "amount": 8.0
+            },
+            {
+                "nutrient": {
+                    "id": 1089,
+                    "name": "Demir, Fe",
+                    "unitName": "mg"
+                },
+                "amount": 0.03
+            },
+            {
+                "nutrient": {
+                    "id": 1091,
+                    "name": "Fosfor, P",
+                    "unitName": "mg"
+                },
+                "amount": 32.0
+            },
+            {
+                "nutrient": {
+                    "id": 1092,
+                    "name": "Potasyum, K",
+                    "unitName": "mg"
+                },
+                "amount": 62.0
+            },
+            {
+                "nutrient": {
+                    "id": 1093,
+                    "name": "Sodyum, Na",
+                    "unitName": "mg"
+                },
+                "amount": 4.0
+            },
+            {
+                "nutrient": {
+                    "id": 1095,
+                    "name": "Çinko, Zn",
+                    "unitName": "mg"
+                },
+                "amount": 0.01
+            },
+            {
+                "nutrient": {
+                    "id": 1103,
+                    "name": "Selenyum, Se",
+                    "unitName": "µg"
+                },
+                "amount": 0.6
+            },
+            {
+                "nutrient": {
+                    "id": 1165,
+                    "name": "B1 Vitamini (Tiamin)",
+                    "unitName": "mg"
+                },
+                "amount": 0.03
+            },
+            {
+                "nutrient": {
+                    "id": 1166,
+                    "name": "B2 Vitamini (Riboflavin)",
+                    "unitName": "mg"
+                },
+                "amount": 0.09
+            },
+            {
+                "nutrient": {
+                    "id": 1167,
+                    "name": "B3 Vitamini (Niasin)",
+                    "unitName": "mg"
+                },
+                "amount": 1.1
+            },
+            {
+                "nutrient": {
+                    "id": 1175,
+                    "name": "B6 vitamini",
+                    "unitName": "mg"
+                },
+                "amount": 0.09
+            },
+            {
+                "nutrient": {
+                    "id": 1177,
+                    "name": "B9 Vitamini (Folat)",
+                    "unitName": "µg"
+                },
+                "amount": 18.0
+            },
+            {
+                "nutrient": {
+                    "id": 1178,
+                    "name": "B12 vitamini",
+                    "unitName": "µg"
+                },
+                "amount": 0.02
+            },
+            {
+                "nutrient": {
+                    "id": 1190,
+                    "name": "Folat, DFE",
+                    "unitName": "µg"
+                },
+                "amount": 18.0
+            }
+        ],
+        "id": 5
+    },
+    {
+        "description": "Alkollü malt içeceği, şekerli",
+        "foodNutrients": [
+            {
+                "nutrient": {
+                    "id": 1005,
+                    "name": "Karbonhidrat",
+                    "unitName": "g"
+                },
+                "amount": 10.1
+            },
+            {
+                "nutrient": {
+                    "id": 1008,
+                    "name": "Enerji",
+                    "unitName": "kcal"
+                },
+                "amount": 68.0
+            },
+            {
+                "nutrient": {
+                    "id": 1018,
+                    "name": "Alkol, etil",
+                    "unitName": "g"
+                },
+                "amount": 4.0
+            },
+            {
+                "nutrient": {
+                    "id": 1051,
+                    "name": "su",
+                    "unitName": "g"
+                },
+                "amount": 85.7
+            },
+            {
+                "nutrient": {
+                    "id": 2000,
+                    "name": "Şekerler",
+                    "unitName": "g"
+                },
+                "amount": 9.77
+            },
+            {
+                "nutrient": {
+                    "id": 1087,
+                    "name": "Kalsiyum, Ca",
+                    "unitName": "mg"
+                },
+                "amount": 4.0
+            },
+            {
+                "nutrient": {
+                    "id": 1089,
+                    "name": "Demir, Fe",
+                    "unitName": "mg"
+                },
+                "amount": 0.03
+            },
+            {
+                "nutrient": {
+                    "id": 1091,
+                    "name": "Fosfor, P",
+                    "unitName": "mg"
+                },
+                "amount": 7.0
+            },
+            {
+                "nutrient": {
+                    "id": 1092,
+                    "name": "Potasyum, K",
+                    "unitName": "mg"
+                },
+                "amount": 27.0
+            },
+            {
+                "nutrient": {
+                    "id": 1093,
+                    "name": "Sodyum, Na",
+                    "unitName": "mg"
+                },
+                "amount": 5.0
+            },
+            {
+                "nutrient": {
+                    "id": 1095,
+                    "name": "Çinko, Zn",
+                    "unitName": "mg"
+                },
+                "amount": 0.01
+            },
+            {
+                "nutrient": {
+                    "id": 1103,
+                    "name": "Selenyum, Se",
+                    "unitName": "µg"
+                },
+                "amount": 0.3
+            },
+            {
+                "nutrient": {
+                    "id": 1109,
+                    "name": "E vitamini",
+                    "unitName": "mg"
+                },
+                "amount": 0.02
+            },
+            {
+                "nutrient": {
+                    "id": 1162,
+                    "name": "C vitamini",
+                    "unitName": "mg"
+                },
+                "amount": 2.8
+            },
+            {
+                "nutrient": {
+                    "id": 1166,
+                    "name": "B2 Vitamini (Riboflavin)",
+                    "unitName": "mg"
+                },
+                "amount": 0.01
+            },
+            {
+                "nutrient": {
+                    "id": 1167,
+                    "name": "B3 Vitamini (Niasin)",
+                    "unitName": "mg"
+                },
+                "amount": 0.225
+            },
+            {
+                "nutrient": {
+                    "id": 1175,
+                    "name": "B6 Vitamini",
+                    "unitName": "mg"
+                },
+                "amount": 0.022
+            },
+            {
+                "nutrient": {
+                    "id": 1177,
+                    "name": "B9 Vitamini (Folat)",
+                    "unitName": "µg"
+                },
+                "amount": 4.0
+            },
+            {
+                "nutrient": {
+                    "id": 1178,
+                    "name": "B12 vitamini",
+                    "unitName": "µg"
+                },
+                "amount": 0.01
+            },
+            {
+                "nutrient": {
+                    "id": 1190,
+                    "name": "Folat, DFE",
+                    "unitName": "µg"
+                },
+                "amount": 4.0
+            }
+        ],
+        "id": 6
+    },
+    {
+        "description": "İskender",
+        "foodNutrients": [
+            {
+                "nutrient": {
+                    "id": 1003,
+                    "name": "Protein",
+                    "unitName": "g"
+                },
+                "amount": 1.05
+            },
+            {
+                "nutrient": {
+                    "id": 1004,
+                    "name": "Yağ",
+                    "unitName": "g"
+                },
+                "amount": 3.83
+            },
+            {
+                "nutrient": {
+                    "id": 1005,
+                    "name": "Karbonhidrat",
+                    "unitName": "g"
+                },
+                "amount": 18.9
+            },
+            {
+                "nutrient": {
+                    "id": 1008,
+                    "name": "Enerji",
+                    "unitName": "kcal"
+                },
+                "amount": 238.0
+            },
+            {
+                "nutrient": {
+                    "id": 1018,
+                    "name": "Alkol, etil",
+                    "unitName": "g"
+                },
+                "amount": 18.2
+            },
+            {
+                "nutrient": {
+                    "id": 1051,
+                    "name": "su",
+                    "unitName": "g"
+                },
+                "amount": 57.8
+            },
+            {
+                "nutrient": {
+                    "id": 1057,
+                    "name": "Kafein",
+                    "unitName": "mg"
+                },
+                "amount": 10.0
+            },
+            {
+                "nutrient": {
+                    "id": 2000,
+                    "name": "Şekerler",
+                    "unitName": "g"
+                },
+                "amount": 15.7
+            },
+            {
+                "nutrient": {
+                    "id": 1087,
+                    "name": "Kalsiyum, Ca",
+                    "unitName": "mg"
+                },
+                "amount": 35.0
+            },
+            {
+                "nutrient": {
+                    "id": 1089,
+                    "name": "Demir, Fe",
+                    "unitName": "mg"
+                },
+                "amount": 0.05
+            },
+            {
+                "nutrient": {
+                    "id": 1091,
+                    "name": "Fosfor, P",
+                    "unitName": "mg"
+                },
+                "amount": 34.0
+            },
+            {
+                "nutrient": {
+                    "id": 1092,
+                    "name": "Potasyum, K",
+                    "unitName": "mg"
+                },
+                "amount": 55.0
+            },
+            {
+                "nutrient": {
+                    "id": 1093,
+                    "name": "Sodyum, Na",
+                    "unitName": "mg"
+                },
+                "amount": 23.0
+            },
+            {
+                "nutrient": {
+                    "id": 1095,
+                    "name": "Çinko, Zn",
+                    "unitName": "mg"
+                },
+                "amount": 0.15
+            },
+            {
+                "nutrient": {
+                    "id": 1098,
+                    "name": "Bakır, Cu",
+                    "unitName": "mg"
+                },
+                "amount": 0.024
+            },
+            {
+                "nutrient": {
+                    "id": 1103,
+                    "name": "Selenyum, Se",
+                    "unitName": "µg"
+                },
+                "amount": 1.2
+            },
+            {
+                "nutrient": {
+                    "id": 1105,
+                    "name": "Retinol",
+                    "unitName": "µg"
+                },
+                "amount": 31.0
+            },
+            {
+                "nutrient": {
+                    "id": 1106,
+                    "name": "A Vitamini, RAE",
+                    "unitName": "µg"
+                },
+                "amount": 31.0
+            },
+            {
+                "nutrient": {
+                    "id": 1107,
+                    "name": "Karoten, beta",
+                    "unitName": "µg"
+                },
+                "amount": 7.0
+            },
+            {
+                "nutrient": {
+                    "id": 1109,
+                    "name": "E vitamini",
+                    "unitName": "mg"
+                },
+                "amount": 0.08
+            },
+            {
+                "nutrient": {
+                    "id": 1162,
+                    "name": "C vitamini",
+                    "unitName": "mg"
+                },
+                "amount": 0.3
+            },
+            {
+                "nutrient": {
+                    "id": 1165,
+                    "name": "B1 Vitamini (Tiamin)",
+                    "unitName": "mg"
+                },
+                "amount": 0.013
+            },
+            {
+                "nutrient": {
+                    "id": 1166,
+                    "name": "B2 Vitamini (Riboflavin)",
+                    "unitName": "mg"
+                },
+                "amount": 0.068
+            },
+            {
+                "nutrient": {
+                    "id": 1167,
+                    "name": "B3 Vitamini (Niasin)",
+                    "unitName": "mg"
+                },
+                "amount": 0.093
+            },
+            {
+                "nutrient": {
+                    "id": 1175,
+                    "name": "B6 Vitamini",
+                    "unitName": "mg"
+                },
+                "amount": 0.016
+            },
+            {
+                "nutrient": {
+                    "id": 1177,
+                    "name": "B9 Vitamini (Folat)",
+                    "unitName": "µg"
+                },
+                "amount": 1.0
+            },
+            {
+                "nutrient": {
+                    "id": 1178,
+                    "name": "B12 vitamini",
+                    "unitName": "µg"
+                },
+                "amount": 0.06
+            },
+            {
+                "nutrient": {
+                    "id": 1185,
+                    "name": "K vitamini",
+                    "unitName": "µg"
+                },
+                "amount": 0.4
+            },
+            {
+                "nutrient": {
+                    "id": 1190,
+                    "name": "Folat, DFE",
+                    "unitName": "µg"
+                },
+                "amount": 1.0
+            },
+            {
+                "nutrient": {
+                    "id": 1253,
+                    "name": "Kolesterol",
+                    "unitName": "mg"
+                },
+                "amount": 11.0
+            },
+            {
+                "nutrient": {
+                    "id": 1258,
+                    "name": "Doymuş Yağ Asitleri",
+                    "unitName": "g"
+                },
+                "amount": 2.31
+            },
+            {
+                "nutrient": {
+                    "id": 1292,
+                    "name": "Tekli doymamış yağ asitleri",
+                    "unitName": "g"
+                },
+                "amount": 1.08
+            },
+            {
+                "nutrient": {
+                    "id": 1293,
+                    "name": "Çoklu doymamış yağ asitleri",
+                    "unitName": "g"
+                },
+                "amount": 0.218
+            }
+        ],
+        "id": 7
+    }
+]
