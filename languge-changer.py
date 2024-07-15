@@ -40,7 +40,7 @@ def save_json(data, file_path):
 def main():
     # JSON dosyasını yükle
     input_file = 'data.json'
-    output_file = 'translated_data_3.json'
+    output_file = 'translated_data.json'
 
     data = load_json(input_file)
 
