@@ -8,4 +8,4 @@
 
 As a result of the analysis:
 - The resulting output is consistent and usable in real life.
-- However, the output generation time is very long (approximately 1 minute for 33kb).
+- However, the output generation time is very long (approximately 33kb per 30 second).
