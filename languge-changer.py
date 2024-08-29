@@ -54,7 +54,7 @@ def translate_json(data, translator, output_file, path=""):
 def main():
     # JSON dosyasını yükle
     input_file = 'data.json'
-    output_file = 'data_hi_part1.json'
+    output_file = 'translated_data.json'
 
     data = load_json(input_file)
 
